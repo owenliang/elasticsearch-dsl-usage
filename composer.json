@@ -1,0 +1,11 @@
+{
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "require": {
+    "ongr/elasticsearch-dsl": "^5.0"
+  }
+}
